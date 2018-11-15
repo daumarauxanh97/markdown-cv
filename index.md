@@ -8,7 +8,7 @@ Trường:**Đại học Thủy Lợi**
 
 Số điện thoại:**0976734190**
 
-Email:[emai](thangld52@wru.vn)
+Email:**thangld52@wru.vn**
 
 ## Học vấn
 
