@@ -63,6 +63,6 @@ Hiện đang là **TTS IT** tại **VNP Group** phong ban **Digitall Content**.
 
  - Chơi game (chơi vui là chính không quan trọng thăng thua ghét các thể loại cày đồ,tự động đánh,điều khiển quân)
 
-
+ - Thể thao (các môn thể thao thi đấu đối kháng hoặc đội không quá đông người <=5 là vừa)
 
 
