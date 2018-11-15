@@ -44,6 +44,10 @@ Năm|Hoạt động
  - Có thể đọc hiểu,nghe,viết tốt
  
  - Khả năng nói còn hạn chế
+ 
+## Tin học văn phòng 
+
+Hiểu biết cơ bản về Word,Excel,Powerpoint
 
 ## Công việc hiện tại
 
