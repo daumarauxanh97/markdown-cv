@@ -57,7 +57,7 @@ Hiện đang là **TTS IT** tại **VNP Group** phong ban **Digitall Content**.
 
  - Đọc truyện (truyên tranh là chủ yếu)
 
- - Xem phim (thích thể loại động,viễn tưởng,suy luận)
+ - Xem phim (thích thể loại hành động,viễn tưởng,thảm họa,suy luận)
 
  - Nghe nhạc (chỉ thích nhạc nước ngoài)
 
