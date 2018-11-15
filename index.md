@@ -6,6 +6,8 @@ Ngày sinh : **27/03/1997**
 
 Trường : **Đại học Thủy Lợi**
 
+Chuyên ngành : **Công nghệ thông tin**
+
 Số điện thoại : **0976734190**
 
 Email : **thangld52@wru.vn**
@@ -18,7 +20,14 @@ Năm|Nơi học tập
 2012-2015|THPT Trần Nhân Tông
 2015-nay|Sinh viên Đại học Thủy Lợi
 
-## Kỹ năng 
+## Các hoạt động
+
+Năm|Hoạt động 
+---|-----------
+2017|Tham khóa đào tạo PHP tại trung tam T3H
+2018|Tham gia câu lạc bộ tiếng anh Alibaba
+
+## Kỹ năng lập trình
 
  - HTML/CSS/Boostrap
 
@@ -29,6 +38,10 @@ Năm|Nơi học tập
  - Laravel
 
  - SQL
+ 
+## Kỹ năng mềm 
+
+
 
 ## Công việc hiện tại
 
@@ -43,6 +56,7 @@ Hiện đang là **TTS IT** tại **VNP Group** phong ban **Digitall Content**.
  - Nghe nhạc
 
  - Chơi game
+
 
 
 
