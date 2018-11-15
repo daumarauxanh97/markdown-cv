@@ -20,9 +20,9 @@ Năm|Nơi học tập
 2012-2015|THPT Trần Nhân Tông
 2015-nay|Sinh viên Đại học Thủy Lợi
 
-## Các hoạt động
+## Các hoạt động/khóa học đã tham gia
 
-Năm|Hoạt động 
+Năm|Hoạt động/khóa học 
 ---|-----------
 2017|Tham khóa đào tạo PHP tại trung tâm T3H
 2018|Tham gia câu lạc bộ tiếng anh Alibaba
