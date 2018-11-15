@@ -39,9 +39,11 @@ Năm|Hoạt động
 
  - SQL
  
-## Kỹ năng mềm 
+## Tiếng anh
 
-
+ - Có thể đọc hiểu,nghe,viết tốt
+ 
+ - Khả năng nghe còn hạn chế
 
 ## Công việc hiện tại
 
