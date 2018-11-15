@@ -1,14 +1,14 @@
 # My CV
 
-Họ và tên:**Lê Đức Thăng**
+Họ và tên : **Lê Đức Thăng**
 
-Ngày sinh:**27/03/1997**
+Ngày sinh : **27/03/1997**
 
-Trường:**Đại học Thủy Lợi**
+Trường : **Đại học Thủy Lợi**
 
-Số điện thoại:**0976734190**
+Số điện thoại : **0976734190**
 
-Email:**thangld52@wru.vn**
+Email : **thangld52@wru.vn**
 
 ## Học vấn
 
