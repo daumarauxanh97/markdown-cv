@@ -1,91 +1,47 @@
----
-layout: cv
-title: Isaac Newtons's CV
----
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+#### My CV
 
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
+Họ và tên:**Lê Đức Thăng**
 
+Ngày sinh:**27/03/1997**
 
-## Currently
+Trường:**Đại học Thủy Lợi**
 
-Standing on the shoulders of giants
+Số điện thoại:**0976734190**
 
-### Specialized in
+Email:[emai](thangld52@wru.vn)
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+## Học vấn
 
+Năm|Nơi học tập
+---|-----------
+2012-2015|THPT Trần Nhân Tông
+2015-nay|Sinh viên Đại học Thủy Lợi
 
-### Research interests
+## Kỹ năng 
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+-HTML/CSS/Boostrap
 
+-Javascript/jquery
 
-## Education
+-PHP
 
-`1654-1660`
-__The King's School, Grantham.__
+-Laravel
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+-SQL
 
-- Sizar
+## Công việc hiện tại
 
-`1667 - death`
-__Trinity College, Cambridge__
+Hiện đang là **TTS IT** tại **VNP Group** phong ban **Digitall Content**.
 
-- Fellow
+## Sở Thich
 
+-Đọc truyện
 
+-Xem phim
 
-## Awards
+-Nghe nhạc
 
-`2012`
-President, *Royal Society*, London, UK
+-Chơi game
 
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
 
 
