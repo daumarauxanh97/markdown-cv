@@ -14,6 +14,7 @@ Email:**thangld52@wru.vn**
 
 Năm|Nơi học tập
 ---|-----------
+2008-2012|THCS Nguyễn Phong Sắc
 2012-2015|THPT Trần Nhân Tông
 2015-nay|Sinh viên Đại học Thủy Lợi
 
