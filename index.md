@@ -49,7 +49,7 @@ Hiện đang là **TTS IT** tại **VNP Group** phong ban **Digitall Content**.
 
 ## Sở Thich
 
- - Đọc truyện (đọc truyên tranh là chủ yếu)
+ - Đọc truyện (truyên tranh là chủ yếu)
 
  - Xem phim (thích thể loại động,viễn tưởng,suy luận)
 
