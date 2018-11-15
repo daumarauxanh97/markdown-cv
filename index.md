@@ -20,15 +20,15 @@ Năm|Nơi học tập
 
 ## Kỹ năng 
 
- *HTML/CSS/Boostrap
+ -HTML/CSS/Boostrap
 
- *Javascript/jquery
+ -Javascript/jquery
 
- *PHP
+ -PHP
 
- *Laravel
+ -Laravel
 
- *SQL
+ -SQL
 
 ## Công việc hiện tại
 
@@ -36,13 +36,13 @@ Hiện đang là **TTS IT** tại **VNP Group** phong ban **Digitall Content**.
 
 ## Sở Thich
 
- *Đọc truyện
+ -Đọc truyện
 
- *Xem phim
+ -Xem phim
 
- *Nghe nhạc
+ -Nghe nhạc
 
- *Chơi game
+ -Chơi game
 
 
 
