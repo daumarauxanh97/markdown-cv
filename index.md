@@ -24,7 +24,7 @@ Năm|Nơi học tập
 
 Năm|Hoạt động 
 ---|-----------
-2017|Tham khóa đào tạo PHP tại trung tam T3H
+2017|Tham khóa đào tạo PHP tại trung tâm T3H
 2018|Tham gia câu lạc bộ tiếng anh Alibaba
 
 ## Kỹ năng lập trình
@@ -49,13 +49,13 @@ Hiện đang là **TTS IT** tại **VNP Group** phong ban **Digitall Content**.
 
 ## Sở Thich
 
- - Đọc truyện
+ - Đọc truyện (đọc truyên tranh là chủ yếu)
 
- - Xem phim
+ - Xem phim (thích thể loại động,viễn tưởng,suy luận)
 
- - Nghe nhạc
+ - Nghe nhạc (chỉ thích nhạc nước ngoài)
 
- - Chơi game
+ - Chơi game (chơi vui là chính không quan trọng thăng thua ghét các thể loại cày đồ,tự động đánh,điều khiển quân)
 
 
 
