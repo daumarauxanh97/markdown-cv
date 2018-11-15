@@ -43,7 +43,7 @@ Năm|Hoạt động
 
  - Có thể đọc hiểu,nghe,viết tốt
  
- - Khả năng nghe còn hạn chế
+ - Khả năng nói còn hạn chế
 
 ## Công việc hiện tại
 
